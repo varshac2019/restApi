@@ -23,12 +23,12 @@ class Command(BaseCommand):
         while i!=len(data_dict[key]):
             university_dict = {}
 
-            clean        = re.compile('<.*?>')                                                          #remove tags from   title
-            university_dict['name']        = re.sub(clean, '', data_dict[key][i].get('title'))         #data_dict[key][i].get('title')
-            university_dict['link_to_program']          = LINK+data_dict[key][i].get('url')
+            clean = re.compile('<.*?>')                                                          #remove tags from   title
+            university_dict['name'] = re.sub(clean, '', data_dict[key][i].get('title'))         #data_dict[key][i].get('title')
+            university_dict['link_to_program'] = LINK+data_dict[key][i].get('url')
             university_dict['rank'] = data_dict[key][i].get('rank_display')
-            university_dict['location']      = data_dict[key][i].get('country')
-            university_dict['city']         = data_dict[key][i].get('cities')
+            university_dict['location'] = data_dict[key][i].get('country')
+            university_dict['city'] = data_dict[key][i].get('cities')
 
 
             try:
