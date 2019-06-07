@@ -1,0 +1,238 @@
+{'title': 'Penn (Wharton)MBA for Executives', 'url': '/college/wharton-school/executive-mba', 'rank_display': '1', 'country': 'United States', 'city': 'Philadelphia (PA), San Francisco (CA)'}
+{'start_month': 'May', 'class_size': '234', 'women_students': '32%', 'scholarship': 'Yes', 'accreditations': 'AACSB', 'intl_students': '36%', 'avg_salary': '190,000USD', 'avg_student_age': '35', 'avg_work_experience': '11'}
+{'title': 'MIT (Sloan)Executive MBA', 'url': '/college/mit-sloan-school-management/executive-mba', 'rank_display': '2', 'country': 'United States', 'city': 'Cambridge (MA)'}
+{'start_month': 'Jan', 'class_size': '126', 'women_students': '34%', 'scholarship': 'Yes', 'accreditations': 'AACSB', 'intl_students': '48%', 'avg_student_age': '35', 'avg_work_experience': '17'}
+{'title': 'London Business SchoolExecutive MBA', 'url': '/college/london-business-school/executive-mba', 'rank_display': '3', 'country': 'United Kingdom', 'city': 'London'}
+{'start_month': 'Jan,\xa0Sep', 'class_size': '74', 'women_students': '25%', 'scholarship': 'Yes', 'accreditations': 'AACSB|AMBA|EQUIS', 'intl_students': '66%', 'avg_salary': '154,505USD', 'avg_student_age': '35', 'avg_work_experience': '13'}
+{'title': 'Northwestern (Kellogg)Executive MBA', 'url': '/college/kellogg-school-management/executive-mba', 'rank_display': '4', 'country': 'United States', 'city': 'Evanston (IL), Miami (FL)'}
+{'start_month': 'Jan,\xa0Sep', 'class_size': '52', 'women_students': '26%', 'scholarship': 'Yes', 'accreditations': 'AACSB', 'intl_students': '18%', 'avg_student_age': '38', 'avg_work_experience': '14'}
+{'title': 'Berkeley (Haas)Executive MBA', 'url': '/college/haas-school-business/executive-mba', 'rank_display': '=5', 'country': 'United States', 'city': 'Berkeley (CA)'}
+{'start_month': 'May', 'class_size': '72', 'women_students': '39%', 'scholarship': 'Yes', 'accreditations': 'AACSB', 'intl_students': '20%', 'avg_student_age': '35', 'avg_work_experience': '14'}
+{'title': 'Chicago (Booth)Executive MBA', 'url': '/college/university-chicago-booth-school-business/executive-mba', 'rank_display': '=5', 'country': 'Multi Campus', 'city': 'Chicago (IL), London, Hong Kong'}
+{'start_month': 'Jun', 'class_size': '245', 'women_students': '22%', 'accreditations': 'AACSB', 'avg_student_age': '37', 'avg_work_experience': '13'}
+{'title': 'ColumbiaExecutive MBA-NY', 'url': '/college/columbia-business-school/executive-mba', 'rank_display': '7', 'country': 'United States', 'city': 'New York (NY)'}
+{'start_month': 'Jan,\xa0May,\xa0Aug', 'class_size': '137', 'women_students': '35%', 'scholarship': 'Yes', 'accreditations': 'AACSB', 'intl_students': '28%', 'avg_student_age': '35', 'avg_work_experience': '9'}
+{'title': 'Oxford (Said)Executive MBA', 'url': '/college/said-business-school/executive-mba', 'rank_display': '8', 'country': 'United Kingdom', 'city': 'Oxford'}
+{'start_month': 'Jan', 'class_size': '65', 'women_students': '28%', 'scholarship': 'Yes', 'accreditations': 'AMBA', 'intl_students': '72%', 'employed': '0%', 'avg_student_age': '37', 'avg_work_experience': '14'}
+{'title': 'UCLA (Anderson)Executive MBA', 'url': '/college/ucla-anderson-school-management/executive-mba', 'rank_display': '9', 'country': 'United States', 'city': 'Los Angeles (CA)'}
+{'start_month': 'Sep', 'class_size': '137', 'women_students': '30%', 'scholarship': 'Yes', 'accreditations': 'AACSB', 'intl_students': '21%', 'employed': '0%', 'avg_student_age': '35', 'avg_work_experience': '14'}
+{'title': 'Cambridge (Judge)Executive MBA', 'url': '/node/328361', 'rank_display': '=10', 'country': 'United Kingdom', 'city': 'Cambridge'}
+{'class_size': '81', 'women_students': '30%', 'scholarship': 'Yes', 'accreditations': '-', 'intl_students': '74%', 'avg_salary': '97,000USD', 'employed': '90%', 'avg_student_age': '37', 'avg_work_experience': '13'}
+{'title': 'IESE Business schoolGlobal Executive MBA', 'url': '/college/iese-business-school-university-navarra/global-executive-mba', 'rank_display': '=10', 'country': 'Spain', 'city': 'Barcelona, New York (NY), Silicon Valley'}
+{'start_month': 'Feb', 'class_size': '60', 'women_students': '35%', 'scholarship': 'Yes', 'accreditations': 'AACSB|AMBA|EQUIS', 'intl_students': '89%', 'avg_salary': '270,281USD', 'avg_student_age': '38', 'avg_work_experience': '15'}
+{'title': 'INSEADGlobal Executive MBA', 'url': '/college/insead-executive-mba', 'rank_display': '12', 'country': 'Multi Campus', 'city': 'Fontainebleau, Abu Dhabi, Singapore'}
+{'start_month': 'Aug,\xa0Oct,\xa0Nov', 'women_students': '25%', 'accreditations': 'AACSB|EQUIS', 'intl_students': '89%', 'avg_salary': '200,000USD', 'avg_work_experience': '13'}
+{'title': 'HEC ParisExecutive MBA', 'url': '/node/330252', 'rank_display': '13', 'country': 'France', 'city': 'Paris, Doha'}
+{'title': 'NYU (Stern)Executive MBA', 'url': '/college/nyu-stern-school-business/nyu-stern-executive-mba', 'rank_display': '14', 'country': 'United States', 'city': 'New York (NY)'}
+{'start_month': 'Jan,\xa0Aug', 'class_size': '62', 'women_students': '32%', 'scholarship': 'Yes', 'accreditations': 'AACSB|EQUIS', 'intl_students': '30%', 'avg_student_age': '35', 'avg_work_experience': '13'}
+{'title': 'YaleMBA For Executives', 'url': '/college/yale-school-management/executive-mba', 'rank_display': '15', 'country': 'United States', 'city': 'New Haven (CT)'}
+{'start_month': 'Jan', 'class_size': '71', 'women_students': '35%', 'scholarship': 'Yes', 'accreditations': 'AACSB', 'intl_students': '38%', 'avg_student_age': '35', 'avg_work_experience': '12'}
+{'title': 'IE Business SchoolGlobal Executive MBA', 'url': '/college/ie-business-school/global-executive-mba', 'rank_display': '16', 'country': 'Spain', 'city': 'Madrid, Sao Paulo, Singapore, Los Angeles'}
+{'start_month': 'May', 'women_students': '23%', 'scholarship': 'Yes', 'accreditations': 'AACSB|AMBA|EQUIS', 'intl_students': '95%', 'avg_salary': '169,000USD', 'avg_student_age': '39', 'avg_work_experience': '16'}
+{'title': 'ImperialExecutive MBA', 'url': '/college/imperial-college-business-school-imperial-college-london/executive-mba-1', 'rank_display': '17', 'country': 'United Kingdom', 'city': 'London'}
+{'start_month': 'Feb', 'class_size': '34', 'women_students': '24%', 'accreditations': 'AACSB|AMBA|EQUIS', 'intl_students': '55%', 'avg_salary': '85,711USD', 'avg_work_experience': '14'}
+{'title': 'Michigan (Ross)Executive MBA', 'url': '/college/michigan-ross-school-business/executive-mba', 'rank_display': '18', 'country': 'United States', 'city': 'Ann Arbor (MI), Los Angeles'}
+{'start_month': 'Aug', 'class_size': '72', 'women_students': '27%', 'scholarship': 'Yes', 'accreditations': 'AACSB', 'intl_students': '20%', 'avg_salary': '186,830USD', 'avg_student_age': '40', 'avg_work_experience': '15'}
+{'title': 'SDA BocconiGlobal Executive MBA', 'url': '/college/sda-bocconi-school-management/gemba-global-executive-mba', 'rank_display': '19', 'country': 'Italy', 'city': 'Milan, Mumbai, Copenhagen, Ann Arbor (MI), Shanghai'}
+{'accreditations': '-', 'employed': '0%', 'avg_work_experience': '12'}
+{'title': 'Duke (Fuqua)Global Executive MBA', 'url': '/college/fuqua-school-business/duke-mba-global-executive-0', 'rank_display': '20', 'country': 'United States', 'city': 'Durham (NC), Santiago, Shanghai, Berlin, New Delhi'}
+{'start_month': 'Jul', 'class_size': '48', 'women_students': '33%', 'accreditations': 'AACSB', 'intl_students': '38%', 'avg_student_age': '39', 'avg_work_experience': '10'}
+{'title': 'IMDMBA For Executives', 'url': '/node/328807', 'rank_display': '21', 'country': 'Switzerland', 'city': 'Lausanne, Palo Alto (CA), Beijing'}
+{'start_month': 'May,\xa0Nov', 'women_students': '22%', 'accreditations': 'AACSB|AMBA|EQUIS', 'intl_students': '88%', 'avg_work_experience': '16'}
+{'title': 'Erasmus (RSM)Executive MBA', 'url': '/node/328350', 'rank_display': '22', 'country': 'Netherlands', 'city': 'Rotterdam'}
+{'accreditations': '-'}
+{'title': 'ESADEExecutive MBA', 'url': '/college/esade-ramon-llull-university/executive-mba-emba', 'rank_display': '23', 'country': 'Spain', 'city': 'Barcelona, Madrid'}
+{'start_month': 'Oct', 'class_size': '42', 'women_students': '45%', 'scholarship': 'Yes', 'accreditations': 'AACSB|AMBA|EQUIS', 'intl_students': '80%', 'avg_work_experience': '11'}
+{'title': 'Toronto (Rotman)Global Executive MBA', 'url': '/node/330269', 'rank_display': '=24', 'country': 'Canada', 'city': 'Toronto (ON), Shanghai, Milan, Mumbai, San Francisco'}
+{'start_month': 'Aug', 'class_size': '58', 'women_students': '40%', 'scholarship': 'Yes', 'accreditations': 'AACSB', 'intl_students': '34%', 'employed': '0%', 'avg_student_age': '37', 'avg_work_experience': '15'}
+{'title': 'WarwickExecutive MBA', 'url': '/college/warwick-business-school/executive-mba', 'rank_display': '=24', 'country': 'United Kingdom', 'city': 'London, Coventry'}
+{'start_month': 'Mar,\xa0Apr,\xa0Sep', 'class_size': '168', 'women_students': '34%', 'scholarship': 'Yes', 'accreditations': 'AACSB|AMBA|EQUIS', 'intl_students': '38%', 'avg_salary': '245,582USD', 'avg_work_experience': '12'}
+{'title': 'CEIBSGlobal Executive MBA', 'url': '/college/china-europe-international-business-school-ceibs/ceibs-global-emba', 'rank_display': '26', 'country': 'China', 'city': 'Shanghai'}
+{'scholarship': 'Yes', 'accreditations': 'EQUIS|AACSB', 'avg_work_experience': '15'}
+{'title': 'MelbourneExecutive MBA', 'url': '/college/melbourne-business-school/executive-mba', 'rank_display': '27', 'country': 'Australia', 'city': 'Melbourne'}
+{'start_month': 'Mar', 'class_size': '60', 'women_students': '25%', 'scholarship': 'Yes', 'accreditations': 'AACSB', 'intl_students': '3%', 'avg_salary': '156,403USD', 'employed': '0%', 'avg_student_age': '35', 'avg_work_experience': '13'}
+{'title': 'CopenhagenExecutive MBA', 'url': '/node/330328', 'rank_display': '28', 'country': 'Denmark', 'city': 'Copenhagen'}
+https://www.topmba.com/node/330328 Not Working
+{'title': 'NUSExecutive MBA', 'url': '/college/nus-business-school/nus-executive-mba', 'rank_display': '29', 'country': 'Singapore', 'city': 'Singapore'}
+{'start_month': 'Jun,\xa0Jul', 'class_size': '83', 'women_students': '24%', 'scholarship': 'Yes', 'accreditations': 'AACSB|EQUIS', 'intl_students': '86%', 'employed': '0%', 'avg_student_age': '35', 'avg_work_experience': '17'}
+{'title': 'Texas (McCombs)Executive MBA', 'url': '/college/university-texas-austin-mccombs-school-business/texas-executive-mba', 'rank_display': '30', 'country': 'United States', 'city': 'Austin (TX)'}
+{'start_month': 'Aug', 'class_size': '58', 'women_students': '24%', 'accreditations': 'AACSB', 'intl_students': '26%', 'employed': '0%', 'avg_work_experience': '14'}
+{'title': 'Pontificia Universidad Catolica de ChileGlobal MBA', 'url': '/college/pontificia-universidad-catolica-de-chile-uc/magister-en-administracion-de-empresas-mba', 'rank_display': '31', 'country': 'Chile', 'city': 'Santiago, Guatemala City'}
+{'start_month': 'Mar,\xa0May,\xa0Sep', 'class_size': '309', 'women_students': '25%', 'accreditations': 'AACSB|EQUIS', 'intl_students': '22%', 'avg_salary': '71,964USD', 'avg_work_experience': '8'}
+{'title': 'Mannheim Business SchoolExecutive MBA', 'url': '/college/mannheim-business-school/mannheim-executive-mba', 'rank_display': '32', 'country': 'Germany', 'city': 'Mannheim'}
+{'start_month': 'Apr', 'class_size': '38', 'women_students': '21%', 'scholarship': 'Yes', 'accreditations': 'AACSB|AMBA|EQUIS', 'intl_students': '40%', 'avg_student_age': '37', 'avg_work_experience': '13'}
+{'title': 'NanyangExecutive MBA', 'url': '/college/nanyang-business-school-singapore/executive-mba', 'rank_display': '33', 'country': 'Singapore', 'city': 'Singapore'}
+{'start_month': 'Jan', 'class_size': '31', 'women_students': '32%', 'scholarship': 'Yes', 'accreditations': 'AACSB|EQUIS', 'intl_students': '88%', 'avg_salary': '68,900USD', 'employed': '0%', 'avg_student_age': '40', 'avg_work_experience': '14'}
+{'title': 'USC (Marshall)Executive MBA', 'url': '/college/marshall-school-business/executive-mba', 'rank_display': '34', 'country': 'United States', 'city': 'Los Angeles (CA), San Diego'}
+{'start_month': 'Aug', 'class_size': '75', 'women_students': '14%', 'scholarship': 'Yes', 'accreditations': 'AACSB', 'intl_students': '29%', 'avg_salary': '176,000USD', 'employed': '0%', 'avg_student_age': '35', 'avg_work_experience': '14'}
+{'title': 'Ivey Business SchoolExecutive MBA', 'url': '/college/ivey-business-school/executive-mba', 'rank_display': '=35', 'country': 'Multi Campus', 'city': 'London (ON), Hong Kong'}
+{'start_month': 'Feb,\xa0Aug', 'class_size': '58', 'women_students': '40%', 'scholarship': 'Yes', 'accreditations': 'EQUIS', 'intl_students': '22%', 'employed': '0%', 'avg_student_age': '35', 'avg_work_experience': '15'}
+{'title': 'St. GallenExecutive MBA', 'url': '/college/university-st-gallen-mba/executive-mba-hsg-emba', 'rank_display': '=35', 'country': 'Switzerland', 'city': 'St. Gallen'}
+{'start_month': 'Jun', 'class_size': '32', 'women_students': '20%', 'accreditations': '-', 'intl_students': '40%', 'avg_work_experience': '12'}
+{'title': 'UNSW (AGSM)MBA (Executive)', 'url': '/college/australian-graduate-school-management-agsm/agsm-mba-executive', 'rank_display': '37', 'country': 'Australia', 'city': 'Sydney, Perth, Melbourne, Canberra'}
+{'start_month': 'Feb,\xa0May,\xa0Sep', 'class_size': '194', 'women_students': '37%', 'scholarship': 'Yes', 'accreditations': 'AACSB|EQUIS', 'intl_students': '6%', 'avg_salary': '144,136USD', 'avg_student_age': '36', 'avg_work_experience': '12'}
+{'title': 'CUHK Business SchoolExecutive MBA', 'url': '/college/chinese-university-hong-kong-cuhk/executive-mba', 'rank_display': '38', 'country': 'Hong Kong', 'city': 'Hong Kong'}
+{'start_month': 'Aug', 'class_size': '50', 'women_students': '41%', 'scholarship': 'Yes', 'accreditations': 'AACSB', 'intl_students': '25%', 'avg_student_age': '35', 'avg_work_experience': '17'}
+{'title': 'North Carolina (Kenan-Flagler)Executive MBA', 'url': '/college/kenan-flagler-business-school/executive-mba', 'rank_display': '39', 'country': 'United States', 'city': 'Chapel Hill (NC)'}
+{'start_month': 'Sep', 'class_size': '65', 'women_students': '8%', 'scholarship': 'Yes', 'accreditations': 'AACSB', 'intl_students': '12%', 'avg_student_age': '35', 'avg_work_experience': '14'}
+{'title': 'ESCP EuropeExecutive MBA', 'url': '/college/escp-europe-business-school/postgraduate-facultiesdepartments-and-programs', 'rank_display': '40', 'country': 'France', 'city': 'Paris, Berlin, Turin, Beirut, London'}
+https://www.topmba.com/college/escp-europe-business-school/postgraduate-facultiesdepartments-and-programs Not Working
+{'title': 'Cornell (Johnson)Cornell Executive MBA Metro NY', 'url': '/college/cornell-sc-johnson-college-business-cornell-university/cornell-executive-mba-metro-ny', 'rank_display': '41', 'country': 'United States', 'city': 'Palisades (NY)'}
+{'start_month': 'Jul', 'class_size': '70', 'women_students': '26%', 'scholarship': 'Yes', 'accreditations': 'AACSB', 'intl_students': '26%', 'employed': '0%', 'avg_work_experience': '12'}
+{'title': 'SMU (Lee Kong Chian)Executive MBA', 'url': '/college/lee-kong-chian-school-business/executive-mba', 'rank_display': '42', 'country': 'Singapore', 'city': 'Singapore'}
+{'start_month': 'Apr', 'class_size': '30', 'women_students': '27%', 'accreditations': 'AACSB|AMBA|EQUIS', 'intl_students': '67%', 'avg_work_experience': '18'}
+{'title': 'BI NorwegianExecutive MBA', 'url': '/college/bi-norwegian-business-school/bi-emba', 'rank_display': '43', 'country': 'Norway', 'city': 'Oslo'}
+{'start_month': 'Mar', 'class_size': '30', 'women_students': '27%', 'scholarship': 'Yes', 'accreditations': 'AACSB|AMBA|EQUIS', 'intl_students': '53%', 'avg_salary': '155,000USD', 'employed': '0%', 'avg_work_experience': '15'}
+{'title': 'Georgia Tech (Scheller)Executive MBA Program', 'url': '/college/georgia-tech-scheller-college-business/executive-mba-program', 'rank_display': '44', 'country': 'United States', 'city': 'Atlanta (GA)'}
+{'start_month': 'Aug', 'class_size': '129', 'women_students': '28%', 'scholarship': 'Yes', 'accreditations': 'AACSB', 'intl_students': '22%', 'employed': '0%', 'avg_student_age': '35', 'avg_work_experience': '15'}
+{'title': 'Boston (Questrom)Executive MBA', 'url': '/college/questrom-school-business/executive-mba', 'rank_display': '45', 'country': 'United States', 'city': 'Boston (MA)'}
+{'start_month': 'Aug', 'class_size': '26', 'women_students': '35%', 'scholarship': 'Yes', 'accreditations': 'AACSB', 'intl_students': '31%', 'avg_salary': '289,380USD', 'avg_work_experience': '16'}
+{'title': 'Purdue (Krannert)Executive MBA', 'url': '/college/krannert-school-management/purdue-executive-mba-program', 'rank_display': '46', 'country': 'United States', 'city': 'West Lafayette (IN)'}
+{'start_month': 'Sep', 'class_size': '28', 'women_students': '21%', 'scholarship': 'Yes', 'accreditations': 'AACSB', 'avg_salary': '203,368USD', 'avg_student_age': '38', 'avg_work_experience': '15'}
+{'title': 'Wisconsin (Madison)Executive MBA', 'url': '/college/wisconsin-school-business/wisconsin-executive-mba-program', 'rank_display': '47', 'country': 'United States', 'city': 'Madison (WI)'}
+{'start_month': 'Aug', 'class_size': '52', 'women_students': '36%', 'scholarship': 'Yes', 'accreditations': 'AACSB', 'intl_students': '18%', 'avg_salary': '133,000USD', 'avg_work_experience': '18'}
+{'title': 'Stockholm School of EconomicsStockholm MBA for Executives', 'url': '/college/stockholm-school-economics/sse-mba-executive-format', 'rank_display': '48', 'country': 'Sweden', 'city': 'Stockholm'}
+{'start_month': 'Jan', 'class_size': '48', 'women_students': '27%', 'accreditations': 'EQUIS', 'intl_students': '48%', 'avg_student_age': '37', 'avg_work_experience': '12'}
+{'title': 'Maryland (Smith)Executive MBA', 'url': '/college/robert-h-smith-school-business/smith-executive-mba', 'rank_display': '49', 'country': 'United States', 'city': 'College Park (MD)'}
+{'start_month': 'Nov', 'class_size': '36', 'women_students': '46%', 'scholarship': 'Yes', 'accreditations': 'AACSB', 'intl_students': '14%', 'avg_salary': '159,772USD', 'employed': '0%', 'avg_student_age': '35', 'avg_work_experience': '17'}
+{'title': 'Frankfurt School of Finance & ManagementExecutive MBA', 'url': '/college/frankfurt-school-finance-management/executive-mba', 'rank_display': '50', 'country': 'Germany', 'city': 'Frankfurt'}
+{'start_month': 'Oct', 'class_size': '42', 'women_students': '33%', 'accreditations': 'AACSB|EQUIS|FIBAA', 'intl_students': '52%', 'avg_salary': '141USD', 'avg_work_experience': '12'}
+{'title': 'Texas A&M (Mays)Executive MBA', 'url': '/college/mays-business-school/mays-executive-mba-program', 'rank_display': '51', 'country': 'United States', 'city': 'Houston (TX)'}
+{'start_month': 'Jul', 'women_students': '16%', 'scholarship': 'Yes', 'accreditations': 'AACSB', 'intl_students': '27%', 'avg_work_experience': '16'}
+{'title': 'LancasterExecutive MBA', 'url': '/college/lancaster-university-management-school/executive-mba', 'rank_display': '=52', 'country': 'United Kingdom', 'city': 'Lancaster, Accra, Kuala Lumpur'}
+{'start_month': 'Oct', 'class_size': '89', 'women_students': '28%', 'scholarship': 'Yes', 'accreditations': 'AACSB|AMBA|EQUIS', 'intl_students': '23%', 'avg_salary': '80,698USD', 'employed': '0%', 'avg_work_experience': '10'}
+{'title': 'Trinity College DublinPart time MBA', 'url': '/node/330287', 'rank_display': '=52', 'country': 'Ireland', 'city': 'Dublin'}
+{'start_month': 'Sep', 'class_size': '40', 'women_students': '35%', 'accreditations': 'AMBA', 'intl_students': '24%', 'avg_salary': '111,000USD', 'avg_student_age': '35', 'avg_work_experience': '14'}
+{'title': 'Michigan State (Eli Broad)Executive MBA', 'url': '/college/eli-broad-graduate-school-management/executive-mba', 'rank_display': '54', 'country': 'United States', 'city': 'East Lansing, Trop, Detroit (MI)'}
+{'start_month': 'Aug', 'class_size': '109', 'women_students': '27%', 'scholarship': 'Yes', 'accreditations': 'AACSB', 'intl_students': '6%', 'avg_salary': '109,848USD', 'employed': '0%', 'avg_student_age': '35', 'avg_work_experience': '13'}
+{'title': 'Minnesota (Carlson)Executive MBA', 'url': '/college/carlson-school-management/carlson-executive-mba-program', 'rank_display': '55', 'country': 'United States', 'city': 'Minneapolis (MN)'}
+{'start_month': 'Aug', 'class_size': '46', 'women_students': '31%', 'scholarship': 'Yes', 'accreditations': 'AACSB', 'intl_students': '5%', 'avg_salary': '160,000USD', 'employed': '0%', 'avg_work_experience': '14'}
+{'title': 'EMLyonExecutive MBA', 'url': '/college/emlyon-business-school/emlyon-business-school', 'rank_display': '56', 'country': 'France', 'city': 'Lyon, Paris, Casablanca'}
+{'start_month': 'Jan,\xa0Oct', 'class_size': '105', 'women_students': '33%', 'accreditations': 'AACSB|AMBA|EQUIS', 'intl_students': '28%', 'avg_salary': '121,338USD', 'avg_work_experience': '17'}
+{'title': 'Washington (Foster)Executive MBA', 'url': '/college/university-washington-foster-school-business/executive-mba', 'rank_display': '57', 'country': 'United States', 'city': 'Seattle (WA)'}
+{'class_size': '68', 'women_students': '34%', 'scholarship': 'Yes', 'accreditations': 'AACSB|EQUIS', 'intl_students': '10%', 'avg_salary': '137,384USD', 'avg_student_age': '35', 'avg_work_experience': '14'}
+{'title': 'UCD (Smurfit)Executive MBA', 'url': '/college/ucd-michael-smurfit-graduate-business-school/executive-mba', 'rank_display': '58', 'country': 'Ireland', 'city': 'Dublin'}
+{'start_month': 'Aug', 'class_size': '46', 'women_students': '32%', 'scholarship': 'Yes', 'accreditations': 'AACSB|AMBA|EQUIS', 'intl_students': '28%', 'avg_salary': '122,365USD', 'avg_student_age': '35', 'avg_work_experience': '15'}
+{'title': 'ThunderbirdExecutive Master of Global Management', 'url': '/college/asu-thunderbird-school-global-management/executive-master-global-management', 'rank_display': '59', 'country': 'United States', 'city': 'Glendale (AZ)'}
+{'start_month': 'Aug', 'class_size': '34', 'women_students': '36%', 'scholarship': 'Yes', 'accreditations': 'AACSB', 'intl_students': '14%', 'avg_salary': '153,000USD', 'avg_student_age': '40', 'avg_work_experience': '15'}
+{'title': 'EDHECExecutive MBA', 'url': '/college/edhec-business-school/edhec-executive-mba', 'rank_display': '=60', 'country': 'France', 'city': 'Lille, Paris'}
+{'start_month': 'Jan,\xa0Feb,\xa0Mar,\xa0Sep', 'class_size': '100', 'women_students': '26%', 'scholarship': 'Yes', 'accreditations': 'AACSB|AMBA|EQUIS', 'intl_students': '32%', 'avg_salary': '136,393USD', 'avg_work_experience': '15'}
+{'title': 'Politecnico di Milano School of ManagementExecutive MBA', 'url': '/college/mip-politecnico-di-milano-graduate-school-business/executive-mba', 'rank_display': '=60', 'country': 'Italy', 'city': 'Milan'}
+{'scholarship': 'Yes', 'accreditations': 'EQUIS|AMBA', 'avg_work_experience': '5'}
+{'title': 'Emory (Goizueta)Weekend Executive MBA', 'url': '/college/goizueta-business-school/weekend-mba-executives', 'rank_display': '62', 'country': 'United States', 'city': 'Atlanta (GA)'}
+{'start_month': 'Sep', 'women_students': '35%', 'scholarship': 'Yes', 'accreditations': 'AACSB', 'intl_students': '28%', 'avg_salary': '148,000USD', 'avg_work_experience': '13'}
+{'title': 'Indian Institute of Management BangaloreExecutive PGPM', 'url': '/college/indian-institute-management-iim-bangalore/post-graduate-programme-enterprise-management', 'rank_display': '63', 'country': 'India', 'city': 'Bangalore'}
+{'start_month': 'Apr', 'class_size': '70', 'women_students': '20%', 'scholarship': 'Yes', 'accreditations': 'EQUIS', 'avg_salary': '42,620USD', 'employed': '0%', 'avg_work_experience': '11'}
+{'title': 'Grenoble Ecole de ManagementExecutive MBA', 'url': '/college/grenoble-ecole-de-management-grenoble-gsb/gems-emba', 'rank_display': '64', 'country': 'France', 'city': 'Tbilisi, Moscow'}
+{'start_month': 'Apr', 'class_size': '68', 'women_students': '35%', 'scholarship': 'Yes', 'accreditations': 'AACSB|AMBA|EQUIS', 'intl_students': '100%', 'avg_salary': '106,665USD', 'employed': '0%', 'avg_work_experience': '10'}
+{'title': 'Florida (Hough)Executive MBA', 'url': '/college/hough-graduate-school-business/executive-mba-program', 'rank_display': '=65', 'country': 'United States', 'city': 'Gainesville (FL)'}
+{'start_month': 'Aug', 'class_size': '27', 'women_students': '30%', 'accreditations': 'AACSB', 'intl_students': '7%', 'avg_salary': '176,050USD', 'avg_work_experience': '16'}
+{'title': 'Porto Business SchoolExecutive MBA', 'url': '/college/school-economics-and-management/executive-mba', 'rank_display': '=65', 'country': 'Portugal', 'city': 'Porto'}
+{'start_month': 'Aug,\xa0Sep', 'class_size': '70', 'women_students': '24%', 'accreditations': 'AMBA|EPAS', 'intl_students': '4%', 'avg_salary': '108,000USD', 'avg_work_experience': '12'}
+{'title': 'AUCExecutive MBA', 'url': '/college/american-university-cairo/executive-mba', 'rank_display': '=67', 'country': 'Egypt', 'city': 'Cairo'}
+{'start_month': 'Jan,\xa0Feb,\xa0Jul,\xa0Sep', 'class_size': '18', 'women_students': '6%', 'accreditations': 'AACSB|AMBA|EQUIS', 'intl_students': '18%', 'avg_work_experience': '14'}
+{'title': 'AUEB (Athens)Executive MBA', 'url': '/college/athens-university-economics-and-business/executive-mba', 'rank_display': '=67', 'country': 'Greece', 'city': 'Athens'}
+{'start_month': 'Sep', 'class_size': '36', 'women_students': '40%', 'scholarship': 'No', 'accreditations': 'AMBA', 'avg_salary': '74,000USD', 'avg_student_age': '35', 'avg_work_experience': '14'}
+{'title': 'ESICExecutive MBA', 'url': '/college/esic-business-and-marketing-school/executive-mba', 'rank_display': '69', 'country': 'Multi Campus', 'city': 'Madrid, Barcelona, Valencia'}
+{'start_month': 'Oct,\xa0Feb', 'class_size': '266', 'women_students': '35%', 'scholarship': 'Yes', 'accreditations': 'AACSB|EPAS', 'intl_students': '12%', 'avg_salary': '119,534USD', 'employed': '99%', 'avg_student_age': '35', 'avg_work_experience': '11'}
+{'title': 'BathExecutive MBA', 'url': '/college/university-bath-school-management/executive-bath-mba', 'rank_display': '69', 'country': 'United Kingdom', 'city': 'Bath'}
+{'start_month': 'Oct,\xa0Jan', 'class_size': '37', 'women_students': '32%', 'scholarship': 'Yes', 'accreditations': 'AMBA|EQUIS', 'intl_students': '25%', 'avg_salary': '106,000USD', 'avg_student_age': '35', 'avg_work_experience': '15'}
+{'title': 'KocExecutive MBA', 'url': '/college/koc-university-graduate-school-business/executive-mba', 'rank_display': '70', 'country': 'Turkey', 'city': 'Istanbul'}
+{'start_month': 'Aug', 'class_size': '59', 'women_students': '25%', 'accreditations': 'AMBA|EQUIS', 'intl_students': '14%', 'avg_work_experience': '12'}
+{'title': 'Florida InternationalExecutive MBA', 'url': '/college/chapman-graduate-school-business-fiu/executive-mba', 'rank_display': '71', 'country': 'United States', 'city': 'Miami (FL)'}
+{'start_month': 'Jul', 'class_size': '21', 'women_students': '57%', 'scholarship': 'Yes', 'accreditations': 'AACSB', 'intl_students': '10%', 'avg_salary': '126,667USD', 'avg_work_experience': '15'}
+{'title': 'City (Cass)Executive MBA', 'url': '/college/cass-business-school/executive-mba', 'rank_display': '=72', 'country': 'United Kingdom', 'city': 'London, Dubai'}
+{'start_month': 'Mar,\xa0Sep', 'women_students': '27%', 'accreditations': 'AACSB|AMBA|EQUIS', 'intl_students': '71%', 'avg_salary': '126,783USD', 'avg_work_experience': '11'}
+{'title': 'Vanderbilt (Owen)Executive MBA', 'url': '/college/owen-graduate-school-management/executive-mba', 'rank_display': '=72', 'country': 'United States', 'city': 'Nashville (TN), Vancouver (BC), Sao Paulo, Mexico City'}
+{'start_month': 'Aug', 'class_size': '50', 'women_students': '32%', 'scholarship': 'Yes', 'accreditations': 'AACSB', 'intl_students': '5%', 'avg_salary': '118,828USD', 'employed': '0%', 'avg_student_age': '35', 'avg_work_experience': '10'}
+{'title': 'ESMT BerlinExecutive MBA', 'url': '/college/esmt-berlin/esmt-berlin-executive-mba', 'rank_display': '74', 'country': 'Germany', 'city': 'Berlin'}
+{'start_month': 'Oct', 'class_size': '51', 'women_students': '24%', 'scholarship': 'Yes', 'accreditations': 'AACSB|AMBA|EQUIS', 'intl_students': '66%', 'avg_salary': '154,000USD', 'employed': '100%', 'avg_student_age': '36', 'avg_work_experience': '13'}
+{'title': 'UT Dallas (Naveen)Executive MBA', 'url': '/college/naveen-jindal-school-management/global-leadership-executive-mba', 'rank_display': '75', 'country': 'United States', 'city': 'Richardson (TX)'}
+{'start_month': 'Aug,\xa0Jan,\xa0May', 'class_size': '17', 'women_students': '29%', 'scholarship': 'Yes', 'accreditations': 'AACSB', 'intl_students': '59%', 'avg_salary': '150,000USD', 'avg_work_experience': '15'}
+{'title': 'Case Western (Weatherhead)Executive MBA', 'url': '/college/weatherhead-school-management/executive-mba', 'rank_display': '76', 'country': 'United States', 'city': 'Cleveland (OH)'}
+{'start_month': 'Aug', 'class_size': '36', 'women_students': '39%', 'scholarship': 'Yes', 'accreditations': 'AACSB', 'intl_students': '4%', 'avg_salary': '158,000USD', 'employed': '0%', 'avg_student_age': '35', 'avg_work_experience': '16'}
+{'title': 'HEC LausanneExecutive MBA', 'url': '/college/hec-lausanne-executive-mba-university-lausanne/executive-mba', 'rank_display': '77', 'country': 'Switzerland', 'city': 'Lausanne'}
+{'start_month': 'Aug', 'class_size': '45', 'women_students': '30%', 'scholarship': 'No', 'accreditations': 'AMBA|EQUIS', 'avg_student_age': '39', 'avg_work_experience': '13'}
+{'title': 'FIA Business SchoolInternational Executive MBA', 'url': '/college/fia-business-school/international-executive-mba', 'rank_display': '78', 'country': 'Brazil', 'city': 'São Paulo'}
+{'start_month': 'Mar,\xa0Sep', 'class_size': '69', 'women_students': '37%', 'accreditations': 'AMBA', 'intl_students': '3%', 'avg_salary': '253,826USD', 'avg_work_experience': '15'}
+{'title': 'Indian School Of BusinessPGPMAX', 'url': '/college/indian-school-business/executive-mba', 'rank_display': '79', 'country': 'India', 'city': 'Hyderabad'}
+{'start_month': 'Jan', 'class_size': '71', 'women_students': '5%', 'scholarship': 'Yes', 'accreditations': 'AACSB', 'intl_students': '30%', 'employed': '0%', 'avg_student_age': '35', 'avg_work_experience': '18'}
+{'title': 'Penn State (Smeal)Executive MBA', 'url': '/college/smeal-college-business/smeal-executive-mba-program', 'rank_display': '80', 'country': 'United States', 'city': 'University Park (PA)'}
+{'start_month': 'Aug', 'class_size': '31', 'women_students': '31%', 'scholarship': 'Yes', 'accreditations': 'AACSB', 'intl_students': '12%', 'employed': '0%', 'avg_student_age': '36', 'avg_work_experience': '14'}
+{'title': 'Solvay BrusselsExecutive MBA', 'url': '/college/solvay-brussels-school-economics-and-management-ulb/executive-mba', 'rank_display': '81', 'country': 'Belgium', 'city': 'Brussels'}
+{'start_month': 'Sep,\xa0Oct', 'class_size': '30', 'women_students': '30%', 'scholarship': 'Yes', 'accreditations': 'AMBA|EQUIS', 'intl_students': '70%', 'avg_salary': '85,744USD', 'employed': '90%', 'avg_student_age': '33', 'avg_work_experience': '8'}
+{'title': 'Leeds University Business SchoolExecutive MBA', 'url': '/college/leeds-executive-mba', 'rank_display': '82', 'country': 'United Kingdom', 'city': 'Leeds'}
+{'start_month': 'Oct', 'class_size': '19', 'women_students': '26%', 'scholarship': 'Yes', 'accreditations': 'AACSB|AMBA|EQUIS', 'intl_students': '11%', 'avg_salary': '92,004USD', 'avg_work_experience': '12'}
+{'title': 'UC San Diego (Rady)FlexWeekend MBA', 'url': '/college/flexweekend-mba', 'rank_display': '83', 'country': 'United States', 'city': 'San Diego (CA)'}
+{'start_month': 'Sep', 'class_size': '25', 'women_students': '36%', 'scholarship': 'Yes', 'accreditations': 'AACSB', 'intl_students': '16%', 'avg_salary': '144,353USD', 'avg_student_age': '40', 'avg_work_experience': '15'}
+{'title': 'Baylor (Hankamer)Baylor Dallas/Austin EMBA', 'url': '/college/baylor-university/baylor-executive-mba-program', 'rank_display': '84', 'country': 'United States', 'city': 'Waco, Austin, Dallas (TX)'}
+{'start_month': 'Jan,\xa0Aug', 'class_size': '31', 'women_students': '36%', 'accreditations': 'AACSB', 'intl_students': '10%', 'avg_salary': '161,451USD', 'avg_work_experience': '13'}
+{'title': 'William & Mary (Mason)Executive MBA', 'url': '/college/mason-school-business/executive-mba-program', 'rank_display': '85', 'country': 'United States', 'city': 'Williamsburg (VA)'}
+{'start_month': 'Jan', 'class_size': '17', 'women_students': '12%', 'accreditations': 'AACSB', 'avg_salary': '104,964USD', 'avg_work_experience': '16'}
+{'title': 'SabanciExecutive MBA', 'url': '/college/sabanci-university/executive-mba', 'rank_display': '86', 'country': 'Turkey', 'city': 'Istanbul'}
+{'start_month': 'Sep', 'class_size': '70', 'women_students': '27%', 'accreditations': 'AACSB', 'intl_students': '7%', 'avg_salary': '39,096USD', 'avg_work_experience': '13'}
+{'title': 'Universidad Adolfo IbanezExecutive MBA', 'url': '/college/adolfo-ibanez-business-school/emba', 'rank_display': '87', 'country': 'Chile', 'city': 'Santiago'}
+{'start_month': 'Jan', 'class_size': '128', 'women_students': '31%', 'accreditations': 'AACSB|AMBA|EQUIS', 'intl_students': '15%', 'avg_student_age': '38', 'avg_work_experience': '10'}
+{'title': 'Loyola (Quinlan)Executive MBA', 'url': '/college/loyola-university-chicago/executive-mba', 'rank_display': '88', 'country': 'United States', 'city': 'Chicago (IL)'}
+{'women_students': '26%', 'scholarship': 'Yes', 'accreditations': '-', 'intl_students': '5%', 'avg_work_experience': '13'}
+{'title': 'Nottingham Executive MBA', 'url': '/node/330346', 'rank_display': '89', 'country': 'United Kingdom', 'city': 'Nottingham'}
+{'start_month': 'Jan,\xa0Apr,\xa0Jul,\xa0Sep', 'class_size': '9', 'women_students': '40%', 'scholarship': 'Yes', 'accreditations': 'AMBA|EQUIS', 'intl_students': '6%', 'avg_salary': '56,974USD', 'employed': '0%', 'avg_work_experience': '12'}
+{'title': 'AstonExecutive MBA', 'url': '/college/aston-business-school/executive-mba', 'rank_display': '90', 'country': 'United Kingdom', 'city': 'Birmingham'}
+{'start_month': 'Jan,\xa0Apr,\xa0Jul,\xa0Sep', 'women_students': '33%', 'accreditations': 'AACSB|AMBA|EQUIS', 'intl_students': '4%', 'avg_salary': '40,676USD', 'avg_work_experience': '16'}
+{'title': 'UC Irvine (Merage)Executive MBA', 'url': '/node/330349', 'rank_display': '91', 'country': 'United States', 'city': 'Irvine (CA)'}
+{'title': 'San Diego State (Fowler)Executive MBA', 'url': '/college/san-diego-state-university-executive-mba-program', 'rank_display': '92', 'country': 'United States', 'city': 'San Diego (CA)'}
+{'scholarship': 'Yes', 'accreditations': 'AACSB', 'avg_salary': '76,982USD', 'avg_work_experience': '14'}
+{'title': 'Antwerp Management SchoolExecutive MBA', 'url': '/college/antwerp-management-school/executive-mba', 'rank_display': '93', 'country': 'Belgium', 'city': 'Antwerp, Moscow'}
+{'start_month': 'Sep', 'class_size': '24', 'women_students': '33%', 'accreditations': 'AACSB|AMBA', 'intl_students': '33%', 'avg_work_experience': '14'}
+{'title': 'AudenciaExecutive MBA', 'url': '/college/audencia-business-school/audencia-executive-mba', 'rank_display': '=94', 'country': 'France', 'city': 'Paris, Nantes, Algiers, Shenzhen'}
+https://www.topmba.com/college/audencia-business-school/audencia-executive-mba Not Working
+{'title': 'NEOMAExecutive MBA', 'url': '/college/neoma-business-school-france/global-executive-mba', 'rank_display': '=94', 'country': 'France', 'city': 'Paris, Reims, Rouen, Tehran'}
+{'start_month': 'Feb,\xa0Jul,\xa0Oct', 'class_size': '31', 'women_students': '32%', 'scholarship': 'Yes', 'accreditations': 'AACSB|AMBA|EQUIS', 'intl_students': '64%', 'avg_student_age': '39', 'avg_work_experience': '16'}
+{'title': 'Pepperdine (Graziadio)Executive MBA', 'url': '/college/pepperdine-graziadio-business-school/pepperdine-graziadio-business-school-1', 'rank_display': '=94', 'country': 'United States', 'city': 'Malibu (CA), Los Angeles (CA), San Jose (CA), Irvine (CA),'}
+{'start_month': 'Sep', 'women_students': '40%', 'accreditations': 'AACSB', 'avg_salary': '102,949USD', 'avg_work_experience': '13'}
+{'title': 'RMIT University School of BusinessExecutive MBA', 'url': '/college/rmit-university/executive-master-business-administration', 'rank_display': '97', 'country': 'Australia', 'city': 'Melbourne, Hanoi, Ho Chi Minh City'}
+{'start_month': 'Feb,\xa0Jul', 'class_size': '68', 'women_students': '36%', 'accreditations': 'EPAS', 'intl_students': '3%', 'avg_salary': '211,767USD', 'avg_work_experience': '14'}
+{'title': 'ESE Business SchoolExecutive MBA', 'url': '/college/ese-business-school/mba-master-business-administration', 'rank_display': '=98', 'country': 'Chile', 'city': 'Santiago'}
+{'start_month': 'Apr,\xa0Sep,\xa0Oct', 'women_students': '25%', 'accreditations': 'AMBA', 'avg_salary': '125,186USD', 'avg_work_experience': '15'}
+{'title': 'Texas at ArlingtonExecutive MBA', 'url': '/college/university-texas-arlington-college-business/university-texas-arlington-executive-mba', 'rank_display': '=98', 'country': 'United States', 'city': "Fort Worth (TX), Taiwan, Peking, Shanghai, Xi'An"}
+{'start_month': 'Aug,\xa0Jan', 'class_size': '14', 'women_students': '36%', 'accreditations': 'AACSB', 'intl_students': '7%', 'avg_salary': '110,423USD', 'avg_work_experience': '17'}
+{'title': 'Fordham (Gabelli)Executive MBA', 'url': '/college/gabelli-school-business/executive-mba-program', 'rank_display': '100', 'country': 'United States', 'city': 'New York (NY), West Harrison (NY)'}
+{'start_month': 'Jan,\xa0Aug', 'class_size': '48', 'women_students': '33%', 'accreditations': 'AACSB', 'intl_students': '6%', 'avg_work_experience': '12'}
+{'title': 'Arizona (Eller)Executive MBA', 'url': '/college/eller-college-management-university-arizona/eller-executive-mba', 'rank_display': '101-110', 'country': 'United States', 'city': 'Tucson, Phoenix (AZ)'}
+{'start_month': 'Aug', 'class_size': '50', 'women_students': '43%', 'scholarship': 'Yes', 'accreditations': 'AACSB', 'intl_students': '6%', 'avg_salary': '141,740USD', 'employed': '86%', 'avg_student_age': '40', 'avg_work_experience': '7'}
+{'title': 'Ecole des PontsGlobal Executive MBA', 'url': '/college/ecole-des-ponts-business-school/global-executive-mba', 'rank_display': '101-110', 'country': 'France', 'city': 'Paris, Casablanca'}
+https://www.topmba.com/college/ecole-des-ponts-business-school/global-executive-mba Not Working
+{'title': 'George WashingtonWorld Executive MBA', 'url': '/node/72146', 'rank_display': '101-110', 'country': 'United States', 'city': 'Washington (DC)'}
+{'start_month': 'Aug', 'women_students': '20%', 'scholarship': 'Yes', 'accreditations': 'AACSB', 'intl_students': '23%', 'employed': '0%', 'avg_work_experience': '8'}
+{'title': 'Georgia State (J. Mark Robinson)Executive MBA', 'url': '/college/j-mack-robinson-college-business/robinson-executive-mba', 'rank_display': '101-110', 'country': 'United States', 'city': 'Atlanta (GA)'}
+{'start_month': 'Aug', 'class_size': '42', 'women_students': '33%', 'scholarship': 'Yes', 'accreditations': 'AACSB', 'intl_students': '17%', 'avg_salary': '145,000USD', 'employed': '0%', 'avg_work_experience': '15'}
+{'title': 'MaastrichtMaastrichtMBA', 'url': '/college/maastrichtmba-0', 'rank_display': '101-110', 'country': 'Netherlands', 'city': 'Maastricht'}
+{'start_month': 'Jan,\xa0Sep,\xa0May', 'class_size': '23', 'women_students': '26%', 'accreditations': 'AACSB|AMBA|EQUIS', 'intl_students': '70%', 'avg_salary': '293,200USD', 'avg_work_experience': '15'}
+{'title': 'Pittsburgh (Katz)Executive MBA', 'url': '/college/katz-graduate-school-business/executive-mba-worldwide', 'rank_display': '101-110', 'country': 'United States', 'city': 'Pittsburg (PA), Sao Paulo'}
+{'start_month': 'May', 'class_size': '17', 'women_students': '21%', 'accreditations': 'AACSB', 'intl_students': '18%', 'avg_student_age': '35', 'avg_work_experience': '15'}
+{'title': 'Simon Fraser (Beedie)Executive MBA', 'url': '/college/beedie-school-business/executive-mba', 'rank_display': '101-110', 'country': 'Canada', 'city': 'Vancouver (BC)'}
+{'start_month': 'Sep', 'class_size': '38', 'women_students': '34%', 'scholarship': 'Yes', 'accreditations': 'AACSB|EQUIS', 'intl_students': '19%', 'avg_salary': '125,826USD', 'avg_work_experience': '19'}
+{'title': 'StrathclydeExecutive MBA', 'url': '/node/330372', 'rank_display': '101-110', 'country': 'United Kingdom', 'city': 'Athens, Zurich, Abu Dhabi, Singapore, Bahrain'}
+{'start_month': 'Oct,\xa0Apr', 'class_size': '140', 'women_students': '35%', 'scholarship': 'Yes', 'accreditations': 'AACSB|AMBA|EQUIS', 'intl_students': '52%', 'avg_salary': '125,000USD', 'avg_student_age': '34', 'avg_work_experience': '14'}
+{'title': 'Suffolk (Sawyer)Executive MBA', 'url': '/college/sawyer-business-school-usa/executive-mba', 'rank_display': '101-110', 'country': 'United States', 'city': 'Boston (MA)'}
+{'start_month': 'Sep', 'class_size': '15', 'women_students': '40%', 'accreditations': 'AACSB', 'avg_salary': '120,000USD', 'avg_work_experience': '16'}
+{'title': 'Universidad ORT UruguayExecutive MBA', 'url': '/college/universidad-ort-uruguay/ort-uruguay-mba', 'rank_display': '101-110', 'country': 'Uruguay', 'city': 'Montevideo'}
+{'start_month': 'Apr', 'class_size': '35', 'women_students': '31%', 'scholarship': 'Yes', 'accreditations': 'AMBA', 'intl_students': '3%', 'avg_salary': '45,175USD', 'avg_work_experience': '10'}
+{'title': 'Aix-MarseilleExecutive MBA', 'url': '/college/iae-aix-graduate-school-management/executive-mba-leading-business-people-and-innovation', 'rank_display': '111+', 'country': 'France', 'city': 'Aix-en-Provence'}
+{'start_month': 'Sep', 'women_students': '35%', 'accreditations': 'AMBA|EQUIS', 'intl_students': '40%', 'avg_salary': '74,210USD', 'avg_work_experience': '15'}
+{'title': 'BradfordExecutive MBA', 'url': '/college/bradford-university-school-management/executive-mba', 'rank_display': '111+', 'country': 'United Kingdom', 'city': 'Bradford, Dubai'}
+{'start_month': 'Apr,\xa0Oct', 'women_students': '20%', 'accreditations': 'AMBA|EQUIS|AACSB', 'intl_students': '64%', 'avg_work_experience': '13'}
+{'title': 'GSOMExecutive MBA', 'url': '/college/graduate-school-management-st-petersburg-university/executive-mba', 'rank_display': '111+', 'country': 'Russia', 'city': 'Saint Petersburg'}
+{'start_month': 'Apr,\xa0Dec,\xa0Jan', 'class_size': '50', 'women_students': '24%', 'accreditations': 'AMBA|EQUIS', 'intl_students': '40%', 'avg_salary': '128,676USD', 'avg_work_experience': '17'}
+{'title': 'Hofstra (Zarb)Executive MBA', 'url': '/college/frank-g-zarb-school-business/hofstra-emba-program', 'rank_display': '111+', 'country': 'United States', 'city': 'Hempstead (NY)'}
+{'start_month': 'Sep', 'class_size': '10', 'women_students': '40%', 'accreditations': 'AACSB', 'avg_salary': '110,513USD', 'avg_work_experience': '15'}
+{'title': 'Kennesaw StateExecutive MBA', 'url': '/college/kennesaw-state-university-michael-j-coles-college-business/executive-mba-program', 'rank_display': '111+', 'country': 'United States', 'city': 'Kennesaw (GA)'}
+{'start_month': 'Sep', 'women_students': '42%', 'accreditations': 'AACSB', 'avg_salary': '180,000USD', 'avg_work_experience': '16'}
+{'title': 'Mercer (Stetson)Professional MBA', 'url': '/college/mercer-university/professional-mba-innovation', 'rank_display': '111+', 'country': 'United States', 'city': 'Atlanta (GA)'}
+{'start_month': 'Jan', 'class_size': '25', 'women_students': '54%', 'accreditations': 'AACSB', 'avg_student_age': '35', 'avg_work_experience': '18'}
+{'title': 'Northern IllinoisExecutive MBA', 'url': '/college/northern-illinois-university-college-business/executive-mba', 'rank_display': '111+', 'country': 'United States', 'city': 'Chicago (IL)'}
+{'start_month': 'Sep', 'women_students': '36%', 'accreditations': 'AACSB', 'intl_students': '7%', 'avg_work_experience': '16'}
+{'title': 'NUCB Business SchoolExecutive MBA', 'url': '/college/nucb-business-school/general-manager-program', 'rank_display': '111+', 'country': 'Japan', 'city': 'Nagoya, Tokyo, Osaka'}
+{'start_month': 'Apr,\xa0Sep', 'women_students': '21%', 'accreditations': 'AACSB|AMBA', 'intl_students': '4%', 'avg_salary': '101,522USD', 'avg_work_experience': '17'}
+{'title': 'Utah (Eccles)Executive MBA', 'url': '/college/david-eccles-school-business/executive-mba', 'rank_display': '111+', 'country': 'United States', 'city': 'Salt Lake City (UT)'}
+{'start_month': 'Aug', 'women_students': '27%', 'accreditations': 'AACSB', 'intl_students': '14%', 'avg_salary': '173,302USD', 'avg_work_experience': '14'}
