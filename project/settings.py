@@ -25,7 +25,7 @@ SECRET_KEY = 'lsypw+jld5czk+r!a^3m1)!t7rmqff8nd1^znf3g$u4l^c_%1n'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = ["https://git.heroku.com/scrapingandrestapi.git"]
 
 
 # Application definition
