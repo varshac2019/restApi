@@ -16,9 +16,16 @@ Including another URLconf
 from django.contrib import admin
 from django.urls import path
 from django.conf.urls import url,include
-
+from university.api.views import UniversityModelViewset
+from rest_framework.routers import DefaultRouter
+from django.views.generic.base import TemplateView
+router = DefaultRouter()
+router.register(r'universities', UniversityModelViewset, basename='universities')
 
 urlpatterns = [
+    path('api/', include(router.urls)),
+    path('accounts/', include('django.contrib.auth.urls')),
     url(r'^admin/', admin.site.urls),
-    url(r'^api/universities/', include('university.api.urls')),
-]
+    path('', TemplateView.as_view(template_name='home.html'), name='home'), # new
+
+    ]

@@ -12,5 +12,6 @@ urlpatterns = [
 
 
     url(r'^$', UniversityModelViewset.as_view({'get':'list'})),
+    url(r'^(?P<pk>\d+)/$', UniversityModelViewset.as_view({'get':'retrieve'})),
 ]
 

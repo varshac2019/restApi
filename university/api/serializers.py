@@ -14,5 +14,3 @@ class UniversitySerializer(serializers.ModelSerializer):
         fields = '__all__'
 
 
-
-
