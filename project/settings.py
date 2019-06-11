@@ -141,7 +141,8 @@ REST_FRAMEWORK = {
 
 default_connection = dj_database_url.parse(os.environ.get("DATABASE_URL"))
 default_connection.update({'CONN_MAX_AGE': 600, })
-DATABASES = {
-    "default": default_connection,
-}
+DATABASES['default'] = dj_database_url.config(conn_max_age=600, ssl_require=True)
+#DATABASES = {
+#    "default": default_connection,
+#}
 
