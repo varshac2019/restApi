@@ -12,6 +12,7 @@ Django==2.2.2
 django-filter==2.1.0
 djangorestframework==3.9.4
 fake-useragent==0.1.11
+gunicorn==19.9.0
 idna==2.8
 ipython==7.5.0
 ipython-genutils==0.2.0
