@@ -6,7 +6,6 @@ from bs4 import BeautifulSoup
 from university.models import University,ProgramHighlight    
 from django.core.management.base import BaseCommand, CommandError
 
-
 class Command(BaseCommand):
     help ='store data in database'
     def handle(self, *args, **options):
@@ -30,7 +29,7 @@ class Command(BaseCommand):
                     response = urllib.request.urlopen(LINK+item['url'])
 
                 except:
-                    print(LINK+item['url']+" Not Working")
+                    print(LINK+item['url']+" <--- Not Working")
 
                 soup = BeautifulSoup(response, 'html.parser')
                 highlights = soup.find('div',class_='directory-data')
@@ -65,9 +64,6 @@ class Command(BaseCommand):
                     if "avg._work_experience" in dictionary.keys():
                         dictionary["avg_work_experience"]=dictionary.pop("avg._work_experience")
         
-
                     obj_uni = University.objects.create(**university_dict)
                     dictionary.update({'name':obj_uni})
                     obj_prog = ProgramHighlight.objects.create(**dictionary)
-
-
