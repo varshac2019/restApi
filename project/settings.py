@@ -28,7 +28,7 @@ SECRET_KEY = 'lsypw+jld5czk+r!a^3m1)!t7rmqff8nd1^znf3g$u4l^c_%1n'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ["https://git.heroku.com/scrapingandrestapi.git"]
+ALLOWED_HOSTS = ['*']
 
 
 # Application definition
@@ -139,4 +139,9 @@ REST_FRAMEWORK = {
 
 }
 
-DATABASES['default'] = dj_database_url.config(conn_max_age=600, ssl_require=True)
+default_connection = dj_database_url.parse(os.environ.get("DATABASE_URL"))
+default_connection.update({'CONN_MAX_AGE': 600, })
+DATABASES = {
+    "default": default_connection,
+}
+
